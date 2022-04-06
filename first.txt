@@ -1,0 +1,7 @@
+hii welcome to the github first project
+i want to modify in first.txt
+change by subal
+one another problem
+a new modification added
+to untrack file go to git rm --cached first.txt
+changed
